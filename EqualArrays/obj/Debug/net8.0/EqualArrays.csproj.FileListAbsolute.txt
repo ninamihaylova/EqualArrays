@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\bin\Debug\net8.0\EqualArrays.exe
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\bin\Debug\net8.0\EqualArrays.deps.json
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\bin\Debug\net8.0\EqualArrays.runtimeconfig.json
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\bin\Debug\net8.0\EqualArrays.dll
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\bin\Debug\net8.0\EqualArrays.pdb
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\obj\Debug\net8.0\EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\obj\Debug\net8.0\EqualArrays.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\obj\Debug\net8.0\EqualArrays.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\obj\Debug\net8.0\EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\obj\Debug\net8.0\EqualArrays.dll
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\obj\Debug\net8.0\refint\EqualArrays.dll
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\obj\Debug\net8.0\EqualArrays.pdb
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\obj\Debug\net8.0\EqualArrays.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\EqualArrays\EqualArrays\obj\Debug\net8.0\ref\EqualArrays.dll
